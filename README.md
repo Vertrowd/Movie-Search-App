@@ -1,17 +1,41 @@
-# React + Vite
+# 🎬 MovieSearch Pro
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, feature-rich movie search application built with React and Vite. Discover millions of movies, TV shows, and detailed information using the OMDB API.
 
-Currently, two official plugins are available:
+![MovieSearch Pro Banner](https://via.placeholder.com/1200x400/7c3aed/ffffff?text=MovieSearch+Pro)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- 🔍 **Real-time Movie Search** - Search any movie or TV show
+- 🎨 **Modern Glassmorphism UI** - Beautiful gradient design with blur effects
+- 📱 **Fully Responsive** - Works perfectly on all devices
+- ⚡ **Fast Performance** - Built with Vite for optimal speed
+- 📄 **Pagination Support** - Browse through multiple pages of results
+- 🎯 **Detailed Movie Info** - View complete movie details including plot, cast, ratings
+- 💫 **Smooth Animations** - Engaging micro-interactions and transitions
+- 🎭 **Modal Popup** - Detailed view without leaving the page
+- 🔗 **IMDB Integration** - Direct links to IMDB pages
+- 🚀 **Lazy Loading** - Optimized image loading for better performance
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- **React 18** - UI Framework
+- **Vite** - Build Tool & Dev Server
+- **Axios** - HTTP Client
+- **OMDB API** - Movie Database
+- **CSS3** - Modern styling with animations
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-#
+## 📋 Prerequisites
+
+Before you begin, ensure you have the following installed:
+- Node.js (v14 or higher)
+- npm or yarn
+- An OMDB API key (free tier available)
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/movie-search-app.git
+cd movie-search-app
